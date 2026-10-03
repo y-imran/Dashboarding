@@ -2,1086 +2,1737 @@
   "ABW": {
     "Country Name": "Aruba",
     "Multiplied": 1.98,
-    "Peak Year": 2019
+    "Peak Year": 2019,
+    "Peak Population": "109.20 Thousand",
+    "Population 1960": "54.92 Thousand",
+    "Population 2025": "108.78 Thousand"
   },
   "AFG": {
     "Country Name": "Afghanistan",
     "Multiplied": 4.85,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "43.84 Million",
+    "Population 1960": "9.04 Million",
+    "Population 2025": "43.84 Million"
   },
   "AGO": {
     "Country Name": "Angola",
     "Multiplied": 7.46,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "39.04 Million",
+    "Population 1960": "5.23 Million",
+    "Population 2025": "39.04 Million"
   },
   "ALB": {
     "Country Name": "Albania",
     "Multiplied": 1.46,
-    "Peak Year": 1990
+    "Peak Year": 1990,
+    "Peak Population": "3.29 Million",
+    "Population 1960": "1.61 Million",
+    "Population 2025": "2.35 Million"
   },
   "AND": {
     "Country Name": "Andorra",
     "Multiplied": 8.72,
-    "Peak Year": 2009
+    "Peak Year": 2009,
+    "Peak Population": "83.89 Thousand",
+    "Population 1960": "9.51 Thousand",
+    "Population 2025": "82.90 Thousand"
   },
   "ARE": {
     "Country Name": "United Arab Emirates",
     "Multiplied": 87.66,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "11.51 Million",
+    "Population 1960": "131.33 Thousand",
+    "Population 2025": "11.51 Million"
   },
   "ARG": {
     "Country Name": "Argentina",
     "Multiplied": 2.25,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "45.85 Million",
+    "Population 1960": "20.39 Million",
+    "Population 2025": "45.85 Million"
   },
   "ARM": {
     "Country Name": "Armenia",
     "Multiplied": 1.66,
-    "Peak Year": 1991
+    "Peak Year": 1991,
+    "Peak Population": "3.61 Million",
+    "Population 1960": "1.86 Million",
+    "Population 2025": "3.09 Million"
   },
   "ASM": {
     "Country Name": "American Samoa",
     "Multiplied": 2.29,
-    "Peak Year": 2002
+    "Peak Year": 2002,
+    "Peak Population": "57.06 Thousand",
+    "Population 1960": "20.13 Thousand",
+    "Population 2025": "46.03 Thousand"
   },
   "ATG": {
     "Country Name": "Antigua and Barbuda",
     "Multiplied": 1.69,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "94.21 Thousand",
+    "Population 1960": "55.60 Thousand",
+    "Population 2025": "94.21 Thousand"
   },
   "AUS": {
     "Country Name": "Australia",
     "Multiplied": 2.69,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "27.61 Million",
+    "Population 1960": "10.28 Million",
+    "Population 2025": "27.61 Million"
   },
   "AUT": {
     "Country Name": "Austria",
     "Multiplied": 1.31,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "9.21 Million",
+    "Population 1960": "7.05 Million",
+    "Population 2025": "9.21 Million"
   },
   "AZE": {
     "Country Name": "Azerbaijan",
     "Multiplied": 2.63,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "10.25 Million",
+    "Population 1960": "3.89 Million",
+    "Population 2025": "10.25 Million"
   },
   "BDI": {
     "Country Name": "Burundi",
     "Multiplied": 5.21,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "14.39 Million",
+    "Population 1960": "2.76 Million",
+    "Population 2025": "14.39 Million"
   },
   "BEL": {
     "Country Name": "Belgium",
     "Multiplied": 1.3,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "11.94 Million",
+    "Population 1960": "9.15 Million",
+    "Population 2025": "11.94 Million"
   },
   "BEN": {
     "Country Name": "Benin",
     "Multiplied": 5.89,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "14.81 Million",
+    "Population 1960": "2.52 Million",
+    "Population 2025": "14.81 Million"
   },
   "BFA": {
     "Country Name": "Burkina Faso",
     "Multiplied": 5.04,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "24.07 Million",
+    "Population 1960": "4.78 Million",
+    "Population 2025": "24.07 Million"
   },
   "BGD": {
     "Country Name": "Bangladesh",
     "Multiplied": 3.39,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "175.69 Million",
+    "Population 1960": "51.83 Million",
+    "Population 2025": "175.69 Million"
   },
   "BGR": {
     "Country Name": "Bulgaria",
     "Multiplied": 0.82,
-    "Peak Year": 1988
+    "Peak Year": 1988,
+    "Peak Population": "8.98 Million",
+    "Population 1960": "7.87 Million",
+    "Population 2025": "6.43 Million"
   },
   "BHR": {
     "Country Name": "Bahrain",
     "Multiplied": 9.67,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "1.60 Million",
+    "Population 1960": "165.48 Thousand",
+    "Population 2025": "1.60 Million"
   },
   "BHS": {
     "Country Name": "Bahamas, The",
     "Multiplied": 3.46,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "403.03 Thousand",
+    "Population 1960": "116.32 Thousand",
+    "Population 2025": "403.03 Thousand"
   },
   "BIH": {
     "Country Name": "Bosnia and Herzegovina",
     "Multiplied": 0.96,
-    "Peak Year": 1991
+    "Peak Year": 1991,
+    "Peak Population": "4.46 Million",
+    "Population 1960": "3.28 Million",
+    "Population 2025": "3.14 Million"
   },
   "BLR": {
     "Country Name": "Belarus",
     "Multiplied": 1.11,
-    "Peak Year": 1993
+    "Peak Year": 1993,
+    "Peak Population": "10.24 Million",
+    "Population 1960": "8.20 Million",
+    "Population 2025": "9.09 Million"
   },
   "BLZ": {
     "Country Name": "Belize",
     "Multiplied": 4.63,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "422.92 Thousand",
+    "Population 1960": "91.32 Thousand",
+    "Population 2025": "422.92 Thousand"
   },
   "BMU": {
     "Country Name": "Bermuda",
     "Multiplied": 1.53,
-    "Peak Year": 2022
+    "Peak Year": 2022,
+    "Peak Population": "64.75 Thousand",
+    "Population 1960": "42.21 Thousand",
+    "Population 2025": "64.56 Thousand"
   },
   "BOL": {
     "Country Name": "Bolivia",
     "Multiplied": 3.4,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "12.58 Million",
+    "Population 1960": "3.70 Million",
+    "Population 2025": "12.58 Million"
   },
   "BRA": {
     "Country Name": "Brazil",
     "Multiplied": 2.94,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "212.81 Million",
+    "Population 1960": "72.39 Million",
+    "Population 2025": "212.81 Million"
   },
   "BRB": {
     "Country Name": "Barbados",
     "Multiplied": 1.22,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "282.62 Thousand",
+    "Population 1960": "230.89 Thousand",
+    "Population 2025": "282.62 Thousand"
   },
   "BRN": {
     "Country Name": "Brunei Darussalam",
     "Multiplied": 5.28,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "466.33 Thousand",
+    "Population 1960": "88.35 Thousand",
+    "Population 2025": "466.33 Thousand"
   },
   "BTN": {
     "Country Name": "Bhutan",
     "Multiplied": 3.56,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "796.68 Thousand",
+    "Population 1960": "224.08 Thousand",
+    "Population 2025": "796.68 Thousand"
   },
   "BWA": {
     "Country Name": "Botswana",
     "Multiplied": 4.96,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "2.56 Million",
+    "Population 1960": "516.16 Thousand",
+    "Population 2025": "2.56 Million"
   },
   "CAF": {
     "Country Name": "Central African Republic",
     "Multiplied": 3.24,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "5.51 Million",
+    "Population 1960": "1.70 Million",
+    "Population 2025": "5.51 Million"
   },
   "CAN": {
     "Country Name": "Canada",
     "Multiplied": 2.33,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "41.65 Million",
+    "Population 1960": "17.91 Million",
+    "Population 2025": "41.65 Million"
   },
   "CHE": {
     "Country Name": "Switzerland",
     "Multiplied": 1.71,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "9.09 Million",
+    "Population 1960": "5.33 Million",
+    "Population 2025": "9.09 Million"
   },
   "CHI": {
     "Country Name": "Channel Islands",
     "Multiplied": 1.52,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "168.47 Thousand",
+    "Population 1960": "110.81 Thousand",
+    "Population 2025": "168.47 Thousand"
   },
   "CHL": {
     "Country Name": "Chile",
     "Multiplied": 2.44,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "19.86 Million",
+    "Population 1960": "8.15 Million",
+    "Population 2025": "19.86 Million"
   },
   "CHN": {
     "Country Name": "China",
     "Multiplied": 2.11,
-    "Peak Year": 2021
+    "Peak Year": 2021,
+    "Peak Population": "1.41 Billion",
+    "Population 1960": "667.07 Million",
+    "Population 2025": "1.41 Billion"
   },
   "CIV": {
     "Country Name": "Cote d'Ivoire",
     "Multiplied": 8.9,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "32.71 Million",
+    "Population 1960": "3.67 Million",
+    "Population 2025": "32.71 Million"
   },
   "CMR": {
     "Country Name": "Cameroon",
     "Multiplied": 5.79,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "29.88 Million",
+    "Population 1960": "5.16 Million",
+    "Population 2025": "29.88 Million"
   },
   "COD": {
     "Country Name": "Congo, Dem. Rep.",
     "Multiplied": 7.39,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "112.83 Million",
+    "Population 1960": "15.26 Million",
+    "Population 2025": "112.83 Million"
   },
   "COG": {
     "Country Name": "Congo, Rep.",
     "Multiplied": 6.14,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "6.48 Million",
+    "Population 1960": "1.06 Million",
+    "Population 2025": "6.48 Million"
   },
   "COL": {
     "Country Name": "Colombia",
     "Multiplied": 3.42,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "53.43 Million",
+    "Population 1960": "15.61 Million",
+    "Population 2025": "53.43 Million"
   },
   "COM": {
     "Country Name": "Comoros",
     "Multiplied": 4.47,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "882.85 Thousand",
+    "Population 1960": "197.70 Thousand",
+    "Population 2025": "882.85 Thousand"
   },
   "CPV": {
     "Country Name": "Cabo Verde",
     "Multiplied": 2.51,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "527.33 Thousand",
+    "Population 1960": "210.02 Thousand",
+    "Population 2025": "527.33 Thousand"
   },
   "CRI": {
     "Country Name": "Costa Rica",
     "Multiplied": 3.88,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "5.15 Million",
+    "Population 1960": "1.33 Million",
+    "Population 2025": "5.15 Million"
   },
   "CUB": {
     "Country Name": "Cuba",
     "Multiplied": 1.51,
-    "Peak Year": 2012
+    "Peak Year": 2012,
+    "Peak Population": "11.30 Million",
+    "Population 1960": "7.24 Million",
+    "Population 2025": "10.94 Million"
   },
   "CUW": {
     "Country Name": "Curacao",
     "Multiplied": 1.25,
-    "Peak Year": 2017
+    "Peak Year": 2017,
+    "Peak Population": "160.18 Thousand",
+    "Population 1960": "124.83 Thousand",
+    "Population 2025": "156.26 Thousand"
   },
   "CYM": {
     "Country Name": "Cayman Islands",
     "Multiplied": 9.0,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "75.84 Thousand",
+    "Population 1960": "8.43 Thousand",
+    "Population 2025": "75.84 Thousand"
   },
   "CYP": {
     "Country Name": "Cyprus",
     "Multiplied": 2.34,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "1.37 Million",
+    "Population 1960": "586.49 Thousand",
+    "Population 2025": "1.37 Million"
   },
   "CZE": {
     "Country Name": "Czechia",
     "Multiplied": 1.13,
-    "Peak Year": 2024
+    "Peak Year": 2024,
+    "Peak Population": "10.91 Million",
+    "Population 1960": "9.60 Million",
+    "Population 2025": "10.89 Million"
   },
   "DEU": {
     "Country Name": "Germany",
     "Multiplied": 1.15,
-    "Peak Year": 2024
+    "Peak Year": 2024,
+    "Peak Population": "83.52 Million",
+    "Population 1960": "72.81 Million",
+    "Population 2025": "83.49 Million"
   },
   "DJI": {
     "Country Name": "Djibouti",
     "Multiplied": 13.76,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "1.18 Million",
+    "Population 1960": "86.02 Thousand",
+    "Population 2025": "1.18 Million"
   },
   "DMA": {
     "Country Name": "Dominica",
     "Multiplied": 1.11,
-    "Peak Year": 1980
+    "Peak Year": 1980,
+    "Peak Population": "73.08 Thousand",
+    "Population 1960": "59.37 Thousand",
+    "Population 2025": "65.87 Thousand"
   },
   "DNK": {
     "Country Name": "Denmark",
     "Multiplied": 1.31,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "6.01 Million",
+    "Population 1960": "4.58 Million",
+    "Population 2025": "6.01 Million"
   },
   "DOM": {
     "Country Name": "Dominican Republic",
     "Multiplied": 3.52,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "11.52 Million",
+    "Population 1960": "3.27 Million",
+    "Population 2025": "11.52 Million"
   },
   "DZA": {
     "Country Name": "Algeria",
     "Multiplied": 4.15,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "47.44 Million",
+    "Population 1960": "11.42 Million",
+    "Population 2025": "47.44 Million"
   },
   "ECU": {
     "Country Name": "Ecuador",
     "Multiplied": 3.98,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "18.29 Million",
+    "Population 1960": "4.59 Million",
+    "Population 2025": "18.29 Million"
   },
   "EGY": {
     "Country Name": "Egypt, Arab Rep.",
     "Multiplied": 4.4,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "118.37 Million",
+    "Population 1960": "26.90 Million",
+    "Population 2025": "118.37 Million"
   },
   "ERI": {
     "Country Name": "Eritrea",
     "Multiplied": 3.71,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "3.61 Million",
+    "Population 1960": "972.55 Thousand",
+    "Population 2025": "3.61 Million"
   },
   "ESP": {
     "Country Name": "Spain",
     "Multiplied": 1.62,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "49.36 Million",
+    "Population 1960": "30.45 Million",
+    "Population 2025": "49.36 Million"
   },
   "EST": {
     "Country Name": "Estonia",
     "Multiplied": 1.13,
-    "Peak Year": 1990
+    "Peak Year": 1990,
+    "Peak Population": "1.57 Million",
+    "Population 1960": "1.21 Million",
+    "Population 2025": "1.37 Million"
   },
   "ETH": {
     "Country Name": "Ethiopia",
     "Multiplied": 6.34,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "135.47 Million",
+    "Population 1960": "21.38 Million",
+    "Population 2025": "135.47 Million"
   },
   "FIN": {
     "Country Name": "Finland",
     "Multiplied": 1.27,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "5.65 Million",
+    "Population 1960": "4.43 Million",
+    "Population 2025": "5.65 Million"
   },
   "FJI": {
     "Country Name": "Fiji",
     "Multiplied": 2.3,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "933.15 Thousand",
+    "Population 1960": "404.89 Thousand",
+    "Population 2025": "933.15 Thousand"
   },
   "FRA": {
     "Country Name": "France",
     "Multiplied": 1.45,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "68.72 Million",
+    "Population 1960": "47.41 Million",
+    "Population 2025": "68.72 Million"
   },
   "FRO": {
     "Country Name": "Faroe Islands",
     "Multiplied": 1.61,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "54.90 Thousand",
+    "Population 1960": "34.13 Thousand",
+    "Population 2025": "54.90 Thousand"
   },
   "FSM": {
     "Country Name": "Micronesia, Fed. Sts.",
     "Multiplied": 2.64,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "113.68 Thousand",
+    "Population 1960": "43.06 Thousand",
+    "Population 2025": "113.68 Thousand"
   },
   "GAB": {
     "Country Name": "Gabon",
     "Multiplied": 5.06,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "2.59 Million",
+    "Population 1960": "512.32 Thousand",
+    "Population 2025": "2.59 Million"
   },
   "GBR": {
     "Country Name": "United Kingdom",
     "Multiplied": 1.33,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "69.49 Million",
+    "Population 1960": "52.40 Million",
+    "Population 2025": "69.49 Million"
   },
   "GEO": {
     "Country Name": "Georgia",
     "Multiplied": 1.08,
-    "Peak Year": 1993
+    "Peak Year": 1993,
+    "Peak Population": "4.91 Million",
+    "Population 1960": "3.65 Million",
+    "Population 2025": "3.94 Million"
   },
   "GHA": {
     "Country Name": "Ghana",
     "Multiplied": 5.04,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "35.06 Million",
+    "Population 1960": "6.96 Million",
+    "Population 2025": "35.06 Million"
   },
   "GIB": {
     "Country Name": "Gibraltar",
     "Multiplied": 1.84,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "40.13 Thousand",
+    "Population 1960": "21.84 Thousand",
+    "Population 2025": "40.13 Thousand"
   },
   "GIN": {
     "Country Name": "Guinea",
     "Multiplied": 4.25,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "15.10 Million",
+    "Population 1960": "3.56 Million",
+    "Population 2025": "15.10 Million"
   },
   "GMB": {
     "Country Name": "Gambia, The",
     "Multiplied": 7.09,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "2.82 Million",
+    "Population 1960": "398.06 Thousand",
+    "Population 2025": "2.82 Million"
   },
   "GNB": {
     "Country Name": "Guinea-Bissau",
     "Multiplied": 3.89,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "2.25 Million",
+    "Population 1960": "577.63 Thousand",
+    "Population 2025": "2.25 Million"
   },
   "GNQ": {
     "Country Name": "Equatorial Guinea",
     "Multiplied": 7.18,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "1.94 Million",
+    "Population 1960": "269.81 Thousand",
+    "Population 2025": "1.94 Million"
   },
   "GRC": {
     "Country Name": "Greece",
     "Multiplied": 1.25,
-    "Peak Year": 2010
+    "Peak Year": 2010,
+    "Peak Population": "11.12 Million",
+    "Population 1960": "8.33 Million",
+    "Population 2025": "10.41 Million"
   },
   "GRD": {
     "Country Name": "Grenada",
     "Multiplied": 1.25,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "117.30 Thousand",
+    "Population 1960": "94.06 Thousand",
+    "Population 2025": "117.30 Thousand"
   },
   "GRL": {
     "Country Name": "Greenland",
     "Multiplied": 1.75,
-    "Peak Year": 2005
+    "Peak Year": 2005,
+    "Peak Population": "56.94 Thousand",
+    "Population 1960": "32.50 Thousand",
+    "Population 2025": "56.83 Thousand"
   },
   "GTM": {
     "Country Name": "Guatemala",
     "Multiplied": 4.6,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "18.69 Million",
+    "Population 1960": "4.06 Million",
+    "Population 2025": "18.69 Million"
   },
   "GUM": {
     "Country Name": "Guam",
     "Multiplied": 2.43,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "169.00 Thousand",
+    "Population 1960": "69.53 Thousand",
+    "Population 2025": "169.00 Thousand"
   },
   "GUY": {
     "Country Name": "Guyana",
     "Multiplied": 1.47,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "835.99 Thousand",
+    "Population 1960": "569.14 Thousand",
+    "Population 2025": "835.99 Thousand"
   },
   "HKG": {
     "Country Name": "Hong Kong SAR, China",
     "Multiplied": 2.42,
-    "Peak Year": 2023
+    "Peak Year": 2023,
+    "Peak Population": "7.54 Million",
+    "Population 1960": "3.09 Million",
+    "Population 2025": "7.50 Million"
   },
   "HND": {
     "Country Name": "Honduras",
     "Multiplied": 5.34,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "11.01 Million",
+    "Population 1960": "2.06 Million",
+    "Population 2025": "11.01 Million"
   },
   "HRV": {
     "Country Name": "Croatia",
     "Multiplied": 0.94,
-    "Peak Year": 1990
+    "Peak Year": 1990,
+    "Peak Population": "4.78 Million",
+    "Population 1960": "4.14 Million",
+    "Population 2025": "3.88 Million"
   },
   "HTI": {
     "Country Name": "Haiti",
     "Multiplied": 3.09,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "11.91 Million",
+    "Population 1960": "3.86 Million",
+    "Population 2025": "11.91 Million"
   },
   "HUN": {
     "Country Name": "Hungary",
     "Multiplied": 0.95,
-    "Peak Year": 1981
+    "Peak Year": 1981,
+    "Peak Population": "10.71 Million",
+    "Population 1960": "9.98 Million",
+    "Population 2025": "9.51 Million"
   },
   "IDN": {
     "Country Name": "Indonesia",
     "Multiplied": 3.24,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "285.72 Million",
+    "Population 1960": "88.30 Million",
+    "Population 2025": "285.72 Million"
   },
   "IMN": {
     "Country Name": "Isle of Man",
     "Multiplied": 1.72,
-    "Peak Year": 2011
+    "Peak Year": 2011,
+    "Peak Population": "84.38 Thousand",
+    "Population 1960": "48.87 Thousand",
+    "Population 2025": "84.12 Thousand"
   },
   "IND": {
     "Country Name": "India",
     "Multiplied": 3.36,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "1.46 Billion",
+    "Population 1960": "435.99 Million",
+    "Population 2025": "1.46 Billion"
   },
   "IRL": {
     "Country Name": "Ireland",
     "Multiplied": 1.94,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "5.48 Million",
+    "Population 1960": "2.83 Million",
+    "Population 2025": "5.48 Million"
   },
   "IRN": {
     "Country Name": "Iran, Islamic Rep.",
     "Multiplied": 4.3,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "92.42 Million",
+    "Population 1960": "21.47 Million",
+    "Population 2025": "92.42 Million"
   },
   "IRQ": {
     "Country Name": "Iraq",
     "Multiplied": 6.7,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "47.02 Million",
+    "Population 1960": "7.02 Million",
+    "Population 2025": "47.02 Million"
   },
   "ISL": {
     "Country Name": "Iceland",
     "Multiplied": 2.23,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "392.40 Thousand",
+    "Population 1960": "175.57 Thousand",
+    "Population 2025": "392.40 Thousand"
   },
   "ISR": {
     "Country Name": "Israel",
     "Multiplied": 4.79,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "10.12 Million",
+    "Population 1960": "2.11 Million",
+    "Population 2025": "10.12 Million"
   },
   "ITA": {
     "Country Name": "Italy",
     "Multiplied": 1.17,
-    "Peak Year": 2014
+    "Peak Year": 2014,
+    "Peak Population": "60.32 Million",
+    "Population 1960": "50.20 Million",
+    "Population 2025": "58.92 Million"
   },
   "JAM": {
     "Country Name": "Jamaica",
     "Multiplied": 1.72,
-    "Peak Year": 2023
+    "Peak Year": 2023,
+    "Peak Population": "2.84 Million",
+    "Population 1960": "1.65 Million",
+    "Population 2025": "2.84 Million"
   },
   "JOR": {
     "Country Name": "Jordan",
     "Multiplied": 13.5,
-    "Peak Year": 2024
+    "Peak Year": 2024,
+    "Peak Population": "11.55 Million",
+    "Population 1960": "853.47 Thousand",
+    "Population 2025": "11.52 Million"
   },
   "JPN": {
     "Country Name": "Japan",
     "Multiplied": 1.32,
-    "Peak Year": 2010
+    "Peak Year": 2010,
+    "Peak Population": "128.07 Million",
+    "Population 1960": "93.22 Million",
+    "Population 2025": "123.37 Million"
   },
   "KAZ": {
     "Country Name": "Kazakhstan",
     "Multiplied": 2.21,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "20.84 Million",
+    "Population 1960": "9.43 Million",
+    "Population 2025": "20.84 Million"
   },
   "KEN": {
     "Country Name": "Kenya",
     "Multiplied": 7.48,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "57.53 Million",
+    "Population 1960": "7.70 Million",
+    "Population 2025": "57.53 Million"
   },
   "KGZ": {
     "Country Name": "Kyrgyz Republic",
     "Multiplied": 3.38,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "7.34 Million",
+    "Population 1960": "2.17 Million",
+    "Population 2025": "7.34 Million"
   },
   "KHM": {
     "Country Name": "Cambodia",
     "Multiplied": 3.27,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "17.85 Million",
+    "Population 1960": "5.45 Million",
+    "Population 2025": "17.85 Million"
   },
   "KIR": {
     "Country Name": "Kiribati",
     "Multiplied": 2.89,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "136.49 Thousand",
+    "Population 1960": "47.16 Thousand",
+    "Population 2025": "136.49 Thousand"
   },
   "KNA": {
     "Country Name": "St. Kitts and Nevis",
     "Multiplied": 0.84,
-    "Peak Year": 1960
+    "Peak Year": 1960,
+    "Peak Population": "55.81 Thousand",
+    "Population 1960": "55.81 Thousand",
+    "Population 2025": "46.92 Thousand"
   },
   "KOR": {
     "Country Name": "Korea, Rep.",
     "Multiplied": 2.07,
-    "Peak Year": 2020
+    "Peak Year": 2020,
+    "Peak Population": "51.84 Million",
+    "Population 1960": "25.01 Million",
+    "Population 2025": "51.68 Million"
   },
   "KWT": {
     "Country Name": "Kuwait",
     "Multiplied": 15.64,
-    "Peak Year": 2024
+    "Peak Year": 2024,
+    "Peak Population": "4.90 Million",
+    "Population 1960": "311.06 Thousand",
+    "Population 2025": "4.87 Million"
   },
   "LAO": {
     "Country Name": "Lao PDR",
     "Multiplied": 3.71,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "7.87 Million",
+    "Population 1960": "2.12 Million",
+    "Population 2025": "7.87 Million"
   },
   "LBN": {
     "Country Name": "Lebanon",
     "Multiplied": 3.26,
-    "Peak Year": 2015
+    "Peak Year": 2015,
+    "Peak Population": "6.47 Million",
+    "Population 1960": "1.79 Million",
+    "Population 2025": "5.85 Million"
   },
   "LBR": {
     "Country Name": "Liberia",
     "Multiplied": 5.03,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "5.73 Million",
+    "Population 1960": "1.14 Million",
+    "Population 2025": "5.73 Million"
   },
   "LBY": {
     "Country Name": "Libya",
     "Multiplied": 5.0,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "7.46 Million",
+    "Population 1960": "1.49 Million",
+    "Population 2025": "7.46 Million"
   },
   "LCA": {
     "Country Name": "St. Lucia",
     "Multiplied": 1.95,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "180.15 Thousand",
+    "Population 1960": "92.58 Thousand",
+    "Population 2025": "180.15 Thousand"
   },
   "LIE": {
     "Country Name": "Liechtenstein",
     "Multiplied": 2.49,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "41.02 Thousand",
+    "Population 1960": "16.45 Thousand",
+    "Population 2025": "41.02 Thousand"
   },
   "LKA": {
     "Country Name": "Sri Lanka",
     "Multiplied": 2.25,
-    "Peak Year": 2022
+    "Peak Year": 2022,
+    "Peak Population": "22.18 Million",
+    "Population 1960": "9.66 Million",
+    "Population 2025": "21.76 Million"
   },
   "LSO": {
     "Country Name": "Lesotho",
     "Multiplied": 3.21,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "2.36 Million",
+    "Population 1960": "736.50 Thousand",
+    "Population 2025": "2.36 Million"
   },
   "LTU": {
     "Country Name": "Lithuania",
     "Multiplied": 1.04,
-    "Peak Year": 1991
+    "Peak Year": 1991,
+    "Peak Population": "3.70 Million",
+    "Population 1960": "2.78 Million",
+    "Population 2025": "2.89 Million"
   },
   "LUX": {
     "Country Name": "Luxembourg",
     "Multiplied": 2.19,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "686.97 Thousand",
+    "Population 1960": "313.97 Thousand",
+    "Population 2025": "686.97 Thousand"
   },
   "LVA": {
     "Country Name": "Latvia",
     "Multiplied": 0.87,
-    "Peak Year": 1989
+    "Peak Year": 1989,
+    "Peak Population": "2.67 Million",
+    "Population 1960": "2.12 Million",
+    "Population 2025": "1.85 Million"
   },
   "MAC": {
     "Country Name": "Macao SAR, China",
     "Multiplied": 3.96,
-    "Peak Year": 2024
+    "Peak Year": 2024,
+    "Peak Population": "687.00 Thousand",
+    "Population 1960": "173.31 Thousand",
+    "Population 2025": "685.90 Thousand"
   },
   "MAF": {
     "Country Name": "St. Martin (French part)",
     "Multiplied": 5.87,
-    "Peak Year": 2014
+    "Peak Year": 2014,
+    "Peak Population": "37.45 Thousand",
+    "Population 1960": "4.25 Thousand",
+    "Population 2025": "24.94 Thousand"
   },
   "MAR": {
     "Country Name": "Morocco",
     "Multiplied": 3.31,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "38.43 Million",
+    "Population 1960": "11.62 Million",
+    "Population 2025": "38.43 Million"
   },
   "MCO": {
     "Country Name": "Monaco",
     "Multiplied": 1.76,
-    "Peak Year": 2023
+    "Peak Year": 2023,
+    "Peak Population": "38.96 Thousand",
+    "Population 1960": "21.81 Thousand",
+    "Population 2025": "38.34 Thousand"
   },
   "MDA": {
     "Country Name": "Moldova",
     "Multiplied": 1.15,
-    "Peak Year": 1991
+    "Peak Year": 1991,
+    "Peak Population": "2.98 Million",
+    "Population 1960": "2.06 Million",
+    "Population 2025": "2.36 Million"
   },
   "MDG": {
     "Country Name": "Madagascar",
     "Multiplied": 6.41,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "32.74 Million",
+    "Population 1960": "5.11 Million",
+    "Population 2025": "32.74 Million"
   },
   "MDV": {
     "Country Name": "Maldives",
     "Multiplied": 5.81,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "529.68 Thousand",
+    "Population 1960": "91.19 Thousand",
+    "Population 2025": "529.68 Thousand"
   },
   "MEX": {
     "Country Name": "Mexico",
     "Multiplied": 3.59,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "131.95 Million",
+    "Population 1960": "36.72 Million",
+    "Population 2025": "131.95 Million"
   },
   "MHL": {
     "Country Name": "Marshall Islands",
     "Multiplied": 2.47,
-    "Peak Year": 2010
+    "Peak Year": 2010,
+    "Peak Population": "52.04 Thousand",
+    "Population 1960": "14.70 Thousand",
+    "Population 2025": "36.28 Thousand"
   },
   "MKD": {
     "Country Name": "North Macedonia",
     "Multiplied": 1.27,
-    "Peak Year": 1990
+    "Peak Year": 1990,
+    "Peak Population": "2.06 Million",
+    "Population 1960": "1.44 Million",
+    "Population 2025": "1.82 Million"
   },
   "MLI": {
     "Country Name": "Mali",
     "Multiplied": 4.66,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "25.20 Million",
+    "Population 1960": "5.40 Million",
+    "Population 2025": "25.20 Million"
   },
   "MLT": {
     "Country Name": "Malta",
     "Multiplied": 1.78,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "579.70 Thousand",
+    "Population 1960": "326.55 Thousand",
+    "Population 2025": "579.70 Thousand"
   },
   "MMR": {
     "Country Name": "Myanmar",
     "Multiplied": 2.52,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "54.85 Million",
+    "Population 1960": "21.73 Million",
+    "Population 2025": "54.85 Million"
   },
   "MNE": {
     "Country Name": "Montenegro",
     "Multiplied": 1.3,
-    "Peak Year": 2019
+    "Peak Year": 2019,
+    "Peak Population": "626.75 Thousand",
+    "Population 1960": "480.58 Thousand",
+    "Population 2025": "623.13 Thousand"
   },
   "MNG": {
     "Country Name": "Mongolia",
     "Multiplied": 3.65,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "3.57 Million",
+    "Population 1960": "977.60 Thousand",
+    "Population 2025": "3.57 Million"
   },
   "MNP": {
     "Country Name": "Northern Mariana Islands",
     "Multiplied": 4.98,
-    "Peak Year": 2000
+    "Peak Year": 2000,
+    "Peak Population": "68.36 Thousand",
+    "Population 1960": "8.74 Thousand",
+    "Population 2025": "43.54 Thousand"
   },
   "MOZ": {
     "Country Name": "Mozambique",
     "Multiplied": 5.31,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "35.63 Million",
+    "Population 1960": "6.71 Million",
+    "Population 2025": "35.63 Million"
   },
   "MRT": {
     "Country Name": "Mauritania",
     "Multiplied": 6.45,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "5.32 Million",
+    "Population 1960": "824.30 Thousand",
+    "Population 2025": "5.32 Million"
   },
   "MUS": {
     "Country Name": "Mauritius",
     "Multiplied": 1.83,
-    "Peak Year": 2021
+    "Peak Year": 2021,
+    "Peak Population": "1.27 Million",
+    "Population 1960": "680.33 Thousand",
+    "Population 2025": "1.24 Million"
   },
   "MWI": {
     "Country Name": "Malawi",
     "Multiplied": 6.12,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "22.22 Million",
+    "Population 1960": "3.63 Million",
+    "Population 2025": "22.22 Million"
   },
   "MYS": {
     "Country Name": "Malaysia",
     "Multiplied": 4.52,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "35.98 Million",
+    "Population 1960": "7.96 Million",
+    "Population 2025": "35.98 Million"
   },
   "NAM": {
     "Country Name": "Namibia",
     "Multiplied": 5.23,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "3.09 Million",
+    "Population 1960": "591.47 Thousand",
+    "Population 2025": "3.09 Million"
   },
   "NCL": {
     "Country Name": "New Caledonia",
     "Multiplied": 3.7,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "295.33 Thousand",
+    "Population 1960": "79.82 Thousand",
+    "Population 2025": "295.33 Thousand"
   },
   "NER": {
     "Country Name": "Niger",
     "Multiplied": 7.97,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "27.92 Million",
+    "Population 1960": "3.51 Million",
+    "Population 2025": "27.92 Million"
   },
   "NGA": {
     "Country Name": "Nigeria",
     "Multiplied": 5.27,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "237.53 Million",
+    "Population 1960": "45.05 Million",
+    "Population 2025": "237.53 Million"
   },
   "NIC": {
     "Country Name": "Nicaragua",
     "Multiplied": 3.93,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "7.01 Million",
+    "Population 1960": "1.78 Million",
+    "Population 2025": "7.01 Million"
   },
   "NLD": {
     "Country Name": "Netherlands",
     "Multiplied": 1.57,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "18.09 Million",
+    "Population 1960": "11.49 Million",
+    "Population 2025": "18.09 Million"
   },
   "NOR": {
     "Country Name": "Norway",
     "Multiplied": 1.57,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "5.61 Million",
+    "Population 1960": "3.58 Million",
+    "Population 2025": "5.61 Million"
   },
   "NPL": {
     "Country Name": "Nepal",
     "Multiplied": 2.93,
-    "Peak Year": 2022
+    "Peak Year": 2022,
+    "Peak Population": "29.72 Million",
+    "Population 1960": "10.12 Million",
+    "Population 2025": "29.62 Million"
   },
   "NRU": {
     "Country Name": "Naoero",
     "Multiplied": 2.61,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "12.03 Thousand",
+    "Population 1960": "4.61 Thousand",
+    "Population 2025": "12.03 Thousand"
   },
   "NZL": {
     "Country Name": "New Zealand",
     "Multiplied": 2.25,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "5.32 Million",
+    "Population 1960": "2.37 Million",
+    "Population 2025": "5.32 Million"
   },
   "OMN": {
     "Country Name": "Oman",
     "Multiplied": 10.36,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "5.49 Million",
+    "Population 1960": "530.49 Thousand",
+    "Population 2025": "5.49 Million"
   },
   "PAK": {
     "Country Name": "Pakistan",
     "Multiplied": 5.58,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "255.22 Million",
+    "Population 1960": "45.71 Million",
+    "Population 2025": "255.22 Million"
   },
   "PAN": {
     "Country Name": "Panama",
     "Multiplied": 4.06,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "4.57 Million",
+    "Population 1960": "1.13 Million",
+    "Population 2025": "4.57 Million"
   },
   "PER": {
     "Country Name": "Peru",
     "Multiplied": 3.4,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "34.58 Million",
+    "Population 1960": "10.17 Million",
+    "Population 2025": "34.58 Million"
   },
   "PHL": {
     "Country Name": "Philippines",
     "Multiplied": 4.19,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "116.79 Million",
+    "Population 1960": "27.89 Million",
+    "Population 2025": "116.79 Million"
   },
   "PLW": {
     "Country Name": "Palau",
     "Multiplied": 1.89,
-    "Peak Year": 2004
+    "Peak Year": 2004,
+    "Peak Population": "19.82 Thousand",
+    "Population 1960": "9.33 Thousand",
+    "Population 2025": "17.66 Thousand"
   },
   "PNG": {
     "Country Name": "Papua New Guinea",
     "Multiplied": 5.39,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "10.76 Million",
+    "Population 1960": "2.00 Million",
+    "Population 2025": "10.76 Million"
   },
   "POL": {
     "Country Name": "Poland",
     "Multiplied": 1.23,
-    "Peak Year": 1998
+    "Peak Year": 1998,
+    "Peak Population": "38.66 Million",
+    "Population 1960": "29.64 Million",
+    "Population 2025": "36.44 Million"
   },
   "PRI": {
     "Country Name": "Puerto Rico (US)",
     "Multiplied": 1.35,
-    "Peak Year": 2004
+    "Peak Year": 2004,
+    "Peak Population": "3.83 Million",
+    "Population 1960": "2.36 Million",
+    "Population 2025": "3.18 Million"
   },
   "PRK": {
     "Country Name": "Korea, Dem. People's Rep.",
     "Multiplied": 2.27,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "26.57 Million",
+    "Population 1960": "11.72 Million",
+    "Population 2025": "26.57 Million"
   },
   "PRT": {
     "Country Name": "Portugal",
     "Multiplied": 1.22,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "10.80 Million",
+    "Population 1960": "8.86 Million",
+    "Population 2025": "10.80 Million"
   },
   "PRY": {
     "Country Name": "Paraguay",
     "Multiplied": 3.72,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "7.01 Million",
+    "Population 1960": "1.88 Million",
+    "Population 2025": "7.01 Million"
   },
   "PSE": {
     "Country Name": "West Bank and Gaza",
     "Multiplied": null,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "5.41 Million",
+    "Population 1960": null,
+    "Population 2025": "5.41 Million"
   },
   "PYF": {
     "Country Name": "French Polynesia",
     "Multiplied": 3.38,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "282.46 Thousand",
+    "Population 1960": "83.67 Thousand",
+    "Population 2025": "282.46 Thousand"
   },
   "QAT": {
     "Country Name": "Qatar",
     "Multiplied": 82.54,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "2.97 Million",
+    "Population 1960": "36.01 Thousand",
+    "Population 2025": "2.97 Million"
   },
   "ROU": {
     "Country Name": "Romania",
     "Multiplied": 1.03,
-    "Peak Year": 1990
+    "Peak Year": 1990,
+    "Peak Population": "23.20 Million",
+    "Population 1960": "18.41 Million",
+    "Population 2025": "19.02 Million"
   },
   "RUS": {
     "Country Name": "Russian Federation",
     "Multiplied": 1.2,
-    "Peak Year": 1992
+    "Peak Year": 1992,
+    "Peak Population": "148.54 Million",
+    "Population 1960": "119.90 Million",
+    "Population 2025": "143.51 Million"
   },
   "RWA": {
     "Country Name": "Rwanda",
     "Multiplied": 4.82,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "14.57 Million",
+    "Population 1960": "3.02 Million",
+    "Population 2025": "14.57 Million"
   },
   "SAU": {
     "Country Name": "Saudi Arabia",
     "Multiplied": 15.18,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "36.97 Million",
+    "Population 1960": "2.44 Million",
+    "Population 2025": "36.97 Million"
   },
   "SDN": {
     "Country Name": "Sudan",
     "Multiplied": 6.18,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "51.66 Million",
+    "Population 1960": "8.36 Million",
+    "Population 2025": "51.66 Million"
   },
   "SEN": {
     "Country Name": "Senegal",
     "Multiplied": 5.67,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "18.93 Million",
+    "Population 1960": "3.34 Million",
+    "Population 2025": "18.93 Million"
   },
   "SGP": {
     "Country Name": "Singapore",
     "Multiplied": 3.71,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "6.11 Million",
+    "Population 1960": "1.65 Million",
+    "Population 2025": "6.11 Million"
   },
   "SLB": {
     "Country Name": "Solomon Islands",
     "Multiplied": 6.0,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "838.64 Thousand",
+    "Population 1960": "139.69 Thousand",
+    "Population 2025": "838.64 Thousand"
   },
   "SLE": {
     "Country Name": "Sierra Leone",
     "Multiplied": 3.89,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "8.82 Million",
+    "Population 1960": "2.27 Million",
+    "Population 2025": "8.82 Million"
   },
   "SLV": {
     "Country Name": "El Salvador",
     "Multiplied": 2.28,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "6.37 Million",
+    "Population 1960": "2.79 Million",
+    "Population 2025": "6.37 Million"
   },
   "SMR": {
     "Country Name": "San Marino",
     "Multiplied": 2.21,
-    "Peak Year": 2020
+    "Peak Year": 2020,
+    "Peak Population": "34.77 Thousand",
+    "Population 1960": "15.43 Thousand",
+    "Population 2025": "34.11 Thousand"
   },
   "SOM": {
     "Country Name": "Somalia, Fed. Rep.",
     "Multiplied": 6.83,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "19.65 Million",
+    "Population 1960": "2.88 Million",
+    "Population 2025": "19.65 Million"
   },
   "SRB": {
     "Country Name": "Serbia",
     "Multiplied": 0.99,
-    "Peak Year": 1990
+    "Peak Year": 1990,
+    "Peak Population": "7.90 Million",
+    "Population 1960": "6.64 Million",
+    "Population 2025": "6.55 Million"
   },
   "SSD": {
     "Country Name": "South Sudan",
     "Multiplied": 4.16,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "12.19 Million",
+    "Population 1960": "2.93 Million",
+    "Population 2025": "12.19 Million"
   },
   "STP": {
     "Country Name": "Sao Tome and Principe",
     "Multiplied": 3.53,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "240.25 Thousand",
+    "Population 1960": "68.01 Thousand",
+    "Population 2025": "240.25 Thousand"
   },
   "SUR": {
     "Country Name": "Suriname",
     "Multiplied": 2.42,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "639.85 Thousand",
+    "Population 1960": "263.92 Thousand",
+    "Population 2025": "639.85 Thousand"
   },
   "SVK": {
     "Country Name": "Slovak Republic",
     "Multiplied": 1.33,
-    "Peak Year": 2020
+    "Peak Year": 2020,
+    "Peak Population": "5.46 Million",
+    "Population 1960": "4.07 Million",
+    "Population 2025": "5.41 Million"
   },
   "SVN": {
     "Country Name": "Slovenia",
     "Multiplied": 1.34,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "2.13 Million",
+    "Population 1960": "1.58 Million",
+    "Population 2025": "2.13 Million"
   },
   "SWE": {
     "Country Name": "Sweden",
     "Multiplied": 1.42,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "10.60 Million",
+    "Population 1960": "7.48 Million",
+    "Population 2025": "10.60 Million"
   },
   "SWZ": {
     "Country Name": "Eswatini",
     "Multiplied": 3.64,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "1.26 Million",
+    "Population 1960": "345.34 Thousand",
+    "Population 2025": "1.26 Million"
   },
   "SXM": {
     "Country Name": "Sint Maarten (Dutch part)",
     "Multiplied": 16.18,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "43.92 Thousand",
+    "Population 1960": "2.71 Thousand",
+    "Population 2025": "43.92 Thousand"
   },
   "SYC": {
     "Country Name": "Seychelles",
     "Multiplied": 2.94,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "122.73 Thousand",
+    "Population 1960": "41.70 Thousand",
+    "Population 2025": "122.73 Thousand"
   },
   "SYR": {
     "Country Name": "Syrian Arab Republic",
     "Multiplied": 5.48,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "25.62 Million",
+    "Population 1960": "4.67 Million",
+    "Population 2025": "25.62 Million"
   },
   "TCA": {
     "Country Name": "Turks and Caicos Islands",
     "Multiplied": 8.37,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "46.85 Thousand",
+    "Population 1960": "5.60 Thousand",
+    "Population 2025": "46.85 Thousand"
   },
   "TCD": {
     "Country Name": "Chad",
     "Multiplied": 6.89,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "21.00 Million",
+    "Population 1960": "3.05 Million",
+    "Population 2025": "21.00 Million"
   },
   "TGO": {
     "Country Name": "Togo",
     "Multiplied": 5.14,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "8.59 Million",
+    "Population 1960": "1.67 Million",
+    "Population 2025": "8.59 Million"
   },
   "THA": {
     "Country Name": "Thailand",
     "Multiplied": 2.67,
-    "Peak Year": 2022
+    "Peak Year": 2022,
+    "Peak Population": "71.74 Million",
+    "Population 1960": "26.85 Million",
+    "Population 2025": "71.62 Million"
   },
   "TJK": {
     "Country Name": "Tajikistan",
     "Multiplied": 5.11,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "10.79 Million",
+    "Population 1960": "2.11 Million",
+    "Population 2025": "10.79 Million"
   },
   "TKM": {
     "Country Name": "Turkmenistan",
     "Multiplied": 4.64,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "7.62 Million",
+    "Population 1960": "1.64 Million",
+    "Population 2025": "7.62 Million"
   },
   "TLS": {
     "Country Name": "Timor-Leste",
     "Multiplied": 3.03,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "1.42 Million",
+    "Population 1960": "468.12 Thousand",
+    "Population 2025": "1.42 Million"
   },
   "TON": {
     "Country Name": "Tonga",
     "Multiplied": 1.57,
-    "Peak Year": 2011
+    "Peak Year": 2011,
+    "Peak Population": "107.57 Thousand",
+    "Population 1960": "66.17 Thousand",
+    "Population 2025": "103.74 Thousand"
   },
   "TTO": {
     "Country Name": "Trinidad and Tobago",
     "Multiplied": 1.62,
-    "Peak Year": 2024
+    "Peak Year": 2024,
+    "Peak Population": "1.37 Million",
+    "Population 1960": "844.94 Thousand",
+    "Population 2025": "1.37 Million"
   },
   "TUN": {
     "Country Name": "Tunisia",
     "Multiplied": 2.89,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "12.35 Million",
+    "Population 1960": "4.27 Million",
+    "Population 2025": "12.35 Million"
   },
   "TUR": {
     "Country Name": "Turkiye",
     "Multiplied": 3.03,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "85.88 Million",
+    "Population 1960": "28.33 Million",
+    "Population 2025": "85.88 Million"
   },
   "TUV": {
     "Country Name": "Tuvalu",
     "Multiplied": 1.7,
-    "Peak Year": 2013
+    "Peak Year": 2013,
+    "Peak Population": "11.00 Thousand",
+    "Population 1960": "5.60 Thousand",
+    "Population 2025": "9.49 Thousand"
   },
   "TZA": {
     "Country Name": "Tanzania",
     "Multiplied": 7.12,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "70.55 Million",
+    "Population 1960": "9.90 Million",
+    "Population 2025": "70.55 Million"
   },
   "UGA": {
     "Country Name": "Uganda",
     "Multiplied": 6.72,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "51.38 Million",
+    "Population 1960": "7.64 Million",
+    "Population 2025": "51.38 Million"
   },
   "UKR": {
     "Country Name": "Ukraine",
     "Multiplied": 0.91,
-    "Peak Year": 1993
+    "Peak Year": 1993,
+    "Peak Population": "52.35 Million",
+    "Population 1960": "42.82 Million",
+    "Population 2025": "38.98 Million"
   },
   "URY": {
     "Country Name": "Uruguay",
     "Multiplied": 1.34,
-    "Peak Year": 2020
+    "Peak Year": 2020,
+    "Peak Population": "3.40 Million",
+    "Population 1960": "2.53 Million",
+    "Population 2025": "3.38 Million"
   },
   "USA": {
     "Country Name": "United States",
     "Multiplied": 1.89,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "341.78 Million",
+    "Population 1960": "180.67 Million",
+    "Population 2025": "341.78 Million"
   },
   "UZB": {
     "Country Name": "Uzbekistan",
     "Multiplied": 4.51,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "37.05 Million",
+    "Population 1960": "8.21 Million",
+    "Population 2025": "37.05 Million"
   },
   "VCT": {
     "Country Name": "St. Vincent and the Grenadines",
     "Multiplied": 1.18,
-    "Peak Year": 2000
+    "Peak Year": 2000,
+    "Peak Population": "113.55 Thousand",
+    "Population 1960": "84.39 Thousand",
+    "Population 2025": "99.92 Thousand"
   },
   "VEN": {
     "Country Name": "Venezuela, RB",
     "Multiplied": 3.49,
-    "Peak Year": 2016
+    "Peak Year": 2016,
+    "Peak Population": "30.77 Million",
+    "Population 1960": "8.16 Million",
+    "Population 2025": "28.52 Million"
   },
   "VGB": {
     "Country Name": "British Virgin Islands",
     "Multiplied": 5.0,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "39.73 Thousand",
+    "Population 1960": "7.95 Thousand",
+    "Population 2025": "39.73 Thousand"
   },
   "VIR": {
     "Country Name": "Virgin Islands (U.S.)",
     "Multiplied": 3.19,
-    "Peak Year": 2000
+    "Peak Year": 2000,
+    "Peak Population": "108.64 Thousand",
+    "Population 1960": "32.50 Thousand",
+    "Population 2025": "103.79 Thousand"
   },
   "VNM": {
     "Country Name": "Viet Nam",
     "Multiplied": 3.12,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "101.60 Million",
+    "Population 1960": "32.53 Million",
+    "Population 2025": "101.60 Million"
   },
   "VUT": {
     "Country Name": "Vanuatu",
     "Multiplied": 5.2,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "335.17 Thousand",
+    "Population 1960": "64.43 Thousand",
+    "Population 2025": "335.17 Thousand"
   },
   "WSM": {
     "Country Name": "Samoa",
     "Multiplied": 1.95,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "219.31 Thousand",
+    "Population 1960": "112.49 Thousand",
+    "Population 2025": "219.31 Thousand"
   },
   "XKX": {
     "Country Name": "Kosovo",
     "Multiplied": 1.6,
-    "Peak Year": 1997
+    "Peak Year": 1997,
+    "Peak Population": "2.20 Million",
+    "Population 1960": "984.85 Thousand",
+    "Population 2025": "1.58 Million"
   },
   "YEM": {
     "Country Name": "Yemen, Rep.",
     "Multiplied": 7.55,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "41.77 Million",
+    "Population 1960": "5.53 Million",
+    "Population 2025": "41.77 Million"
   },
   "ZAF": {
     "Country Name": "South Africa",
     "Multiplied": 3.94,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "64.75 Million",
+    "Population 1960": "16.44 Million",
+    "Population 2025": "64.75 Million"
   },
   "ZMB": {
     "Country Name": "Zambia",
     "Multiplied": 6.95,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "21.91 Million",
+    "Population 1960": "3.15 Million",
+    "Population 2025": "21.91 Million"
   },
   "ZWE": {
     "Country Name": "Zimbabwe",
     "Multiplied": 4.45,
-    "Peak Year": 2025
+    "Peak Year": 2025,
+    "Peak Population": "16.95 Million",
+    "Population 1960": "3.81 Million",
+    "Population 2025": "16.95 Million"
   }
 }
