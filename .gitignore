@@ -1,0 +1,5 @@
+# to save commiting original data
+data/
+
+# Node modules
+node_modules/

@@ -1,0 +1,1087 @@
+{
+  "ABW": {
+    "Country Name": "Aruba",
+    "Multiplied": 1.98,
+    "Peak Year": 2019
+  },
+  "AFG": {
+    "Country Name": "Afghanistan",
+    "Multiplied": 4.85,
+    "Peak Year": 2025
+  },
+  "AGO": {
+    "Country Name": "Angola",
+    "Multiplied": 7.46,
+    "Peak Year": 2025
+  },
+  "ALB": {
+    "Country Name": "Albania",
+    "Multiplied": 1.46,
+    "Peak Year": 1990
+  },
+  "AND": {
+    "Country Name": "Andorra",
+    "Multiplied": 8.72,
+    "Peak Year": 2009
+  },
+  "ARE": {
+    "Country Name": "United Arab Emirates",
+    "Multiplied": 87.66,
+    "Peak Year": 2025
+  },
+  "ARG": {
+    "Country Name": "Argentina",
+    "Multiplied": 2.25,
+    "Peak Year": 2025
+  },
+  "ARM": {
+    "Country Name": "Armenia",
+    "Multiplied": 1.66,
+    "Peak Year": 1991
+  },
+  "ASM": {
+    "Country Name": "American Samoa",
+    "Multiplied": 2.29,
+    "Peak Year": 2002
+  },
+  "ATG": {
+    "Country Name": "Antigua and Barbuda",
+    "Multiplied": 1.69,
+    "Peak Year": 2025
+  },
+  "AUS": {
+    "Country Name": "Australia",
+    "Multiplied": 2.69,
+    "Peak Year": 2025
+  },
+  "AUT": {
+    "Country Name": "Austria",
+    "Multiplied": 1.31,
+    "Peak Year": 2025
+  },
+  "AZE": {
+    "Country Name": "Azerbaijan",
+    "Multiplied": 2.63,
+    "Peak Year": 2025
+  },
+  "BDI": {
+    "Country Name": "Burundi",
+    "Multiplied": 5.21,
+    "Peak Year": 2025
+  },
+  "BEL": {
+    "Country Name": "Belgium",
+    "Multiplied": 1.3,
+    "Peak Year": 2025
+  },
+  "BEN": {
+    "Country Name": "Benin",
+    "Multiplied": 5.89,
+    "Peak Year": 2025
+  },
+  "BFA": {
+    "Country Name": "Burkina Faso",
+    "Multiplied": 5.04,
+    "Peak Year": 2025
+  },
+  "BGD": {
+    "Country Name": "Bangladesh",
+    "Multiplied": 3.39,
+    "Peak Year": 2025
+  },
+  "BGR": {
+    "Country Name": "Bulgaria",
+    "Multiplied": 0.82,
+    "Peak Year": 1988
+  },
+  "BHR": {
+    "Country Name": "Bahrain",
+    "Multiplied": 9.67,
+    "Peak Year": 2025
+  },
+  "BHS": {
+    "Country Name": "Bahamas, The",
+    "Multiplied": 3.46,
+    "Peak Year": 2025
+  },
+  "BIH": {
+    "Country Name": "Bosnia and Herzegovina",
+    "Multiplied": 0.96,
+    "Peak Year": 1991
+  },
+  "BLR": {
+    "Country Name": "Belarus",
+    "Multiplied": 1.11,
+    "Peak Year": 1993
+  },
+  "BLZ": {
+    "Country Name": "Belize",
+    "Multiplied": 4.63,
+    "Peak Year": 2025
+  },
+  "BMU": {
+    "Country Name": "Bermuda",
+    "Multiplied": 1.53,
+    "Peak Year": 2022
+  },
+  "BOL": {
+    "Country Name": "Bolivia",
+    "Multiplied": 3.4,
+    "Peak Year": 2025
+  },
+  "BRA": {
+    "Country Name": "Brazil",
+    "Multiplied": 2.94,
+    "Peak Year": 2025
+  },
+  "BRB": {
+    "Country Name": "Barbados",
+    "Multiplied": 1.22,
+    "Peak Year": 2025
+  },
+  "BRN": {
+    "Country Name": "Brunei Darussalam",
+    "Multiplied": 5.28,
+    "Peak Year": 2025
+  },
+  "BTN": {
+    "Country Name": "Bhutan",
+    "Multiplied": 3.56,
+    "Peak Year": 2025
+  },
+  "BWA": {
+    "Country Name": "Botswana",
+    "Multiplied": 4.96,
+    "Peak Year": 2025
+  },
+  "CAF": {
+    "Country Name": "Central African Republic",
+    "Multiplied": 3.24,
+    "Peak Year": 2025
+  },
+  "CAN": {
+    "Country Name": "Canada",
+    "Multiplied": 2.33,
+    "Peak Year": 2025
+  },
+  "CHE": {
+    "Country Name": "Switzerland",
+    "Multiplied": 1.71,
+    "Peak Year": 2025
+  },
+  "CHI": {
+    "Country Name": "Channel Islands",
+    "Multiplied": 1.52,
+    "Peak Year": 2025
+  },
+  "CHL": {
+    "Country Name": "Chile",
+    "Multiplied": 2.44,
+    "Peak Year": 2025
+  },
+  "CHN": {
+    "Country Name": "China",
+    "Multiplied": 2.11,
+    "Peak Year": 2021
+  },
+  "CIV": {
+    "Country Name": "Cote d'Ivoire",
+    "Multiplied": 8.9,
+    "Peak Year": 2025
+  },
+  "CMR": {
+    "Country Name": "Cameroon",
+    "Multiplied": 5.79,
+    "Peak Year": 2025
+  },
+  "COD": {
+    "Country Name": "Congo, Dem. Rep.",
+    "Multiplied": 7.39,
+    "Peak Year": 2025
+  },
+  "COG": {
+    "Country Name": "Congo, Rep.",
+    "Multiplied": 6.14,
+    "Peak Year": 2025
+  },
+  "COL": {
+    "Country Name": "Colombia",
+    "Multiplied": 3.42,
+    "Peak Year": 2025
+  },
+  "COM": {
+    "Country Name": "Comoros",
+    "Multiplied": 4.47,
+    "Peak Year": 2025
+  },
+  "CPV": {
+    "Country Name": "Cabo Verde",
+    "Multiplied": 2.51,
+    "Peak Year": 2025
+  },
+  "CRI": {
+    "Country Name": "Costa Rica",
+    "Multiplied": 3.88,
+    "Peak Year": 2025
+  },
+  "CUB": {
+    "Country Name": "Cuba",
+    "Multiplied": 1.51,
+    "Peak Year": 2012
+  },
+  "CUW": {
+    "Country Name": "Curacao",
+    "Multiplied": 1.25,
+    "Peak Year": 2017
+  },
+  "CYM": {
+    "Country Name": "Cayman Islands",
+    "Multiplied": 9.0,
+    "Peak Year": 2025
+  },
+  "CYP": {
+    "Country Name": "Cyprus",
+    "Multiplied": 2.34,
+    "Peak Year": 2025
+  },
+  "CZE": {
+    "Country Name": "Czechia",
+    "Multiplied": 1.13,
+    "Peak Year": 2024
+  },
+  "DEU": {
+    "Country Name": "Germany",
+    "Multiplied": 1.15,
+    "Peak Year": 2024
+  },
+  "DJI": {
+    "Country Name": "Djibouti",
+    "Multiplied": 13.76,
+    "Peak Year": 2025
+  },
+  "DMA": {
+    "Country Name": "Dominica",
+    "Multiplied": 1.11,
+    "Peak Year": 1980
+  },
+  "DNK": {
+    "Country Name": "Denmark",
+    "Multiplied": 1.31,
+    "Peak Year": 2025
+  },
+  "DOM": {
+    "Country Name": "Dominican Republic",
+    "Multiplied": 3.52,
+    "Peak Year": 2025
+  },
+  "DZA": {
+    "Country Name": "Algeria",
+    "Multiplied": 4.15,
+    "Peak Year": 2025
+  },
+  "ECU": {
+    "Country Name": "Ecuador",
+    "Multiplied": 3.98,
+    "Peak Year": 2025
+  },
+  "EGY": {
+    "Country Name": "Egypt, Arab Rep.",
+    "Multiplied": 4.4,
+    "Peak Year": 2025
+  },
+  "ERI": {
+    "Country Name": "Eritrea",
+    "Multiplied": 3.71,
+    "Peak Year": 2025
+  },
+  "ESP": {
+    "Country Name": "Spain",
+    "Multiplied": 1.62,
+    "Peak Year": 2025
+  },
+  "EST": {
+    "Country Name": "Estonia",
+    "Multiplied": 1.13,
+    "Peak Year": 1990
+  },
+  "ETH": {
+    "Country Name": "Ethiopia",
+    "Multiplied": 6.34,
+    "Peak Year": 2025
+  },
+  "FIN": {
+    "Country Name": "Finland",
+    "Multiplied": 1.27,
+    "Peak Year": 2025
+  },
+  "FJI": {
+    "Country Name": "Fiji",
+    "Multiplied": 2.3,
+    "Peak Year": 2025
+  },
+  "FRA": {
+    "Country Name": "France",
+    "Multiplied": 1.45,
+    "Peak Year": 2025
+  },
+  "FRO": {
+    "Country Name": "Faroe Islands",
+    "Multiplied": 1.61,
+    "Peak Year": 2025
+  },
+  "FSM": {
+    "Country Name": "Micronesia, Fed. Sts.",
+    "Multiplied": 2.64,
+    "Peak Year": 2025
+  },
+  "GAB": {
+    "Country Name": "Gabon",
+    "Multiplied": 5.06,
+    "Peak Year": 2025
+  },
+  "GBR": {
+    "Country Name": "United Kingdom",
+    "Multiplied": 1.33,
+    "Peak Year": 2025
+  },
+  "GEO": {
+    "Country Name": "Georgia",
+    "Multiplied": 1.08,
+    "Peak Year": 1993
+  },
+  "GHA": {
+    "Country Name": "Ghana",
+    "Multiplied": 5.04,
+    "Peak Year": 2025
+  },
+  "GIB": {
+    "Country Name": "Gibraltar",
+    "Multiplied": 1.84,
+    "Peak Year": 2025
+  },
+  "GIN": {
+    "Country Name": "Guinea",
+    "Multiplied": 4.25,
+    "Peak Year": 2025
+  },
+  "GMB": {
+    "Country Name": "Gambia, The",
+    "Multiplied": 7.09,
+    "Peak Year": 2025
+  },
+  "GNB": {
+    "Country Name": "Guinea-Bissau",
+    "Multiplied": 3.89,
+    "Peak Year": 2025
+  },
+  "GNQ": {
+    "Country Name": "Equatorial Guinea",
+    "Multiplied": 7.18,
+    "Peak Year": 2025
+  },
+  "GRC": {
+    "Country Name": "Greece",
+    "Multiplied": 1.25,
+    "Peak Year": 2010
+  },
+  "GRD": {
+    "Country Name": "Grenada",
+    "Multiplied": 1.25,
+    "Peak Year": 2025
+  },
+  "GRL": {
+    "Country Name": "Greenland",
+    "Multiplied": 1.75,
+    "Peak Year": 2005
+  },
+  "GTM": {
+    "Country Name": "Guatemala",
+    "Multiplied": 4.6,
+    "Peak Year": 2025
+  },
+  "GUM": {
+    "Country Name": "Guam",
+    "Multiplied": 2.43,
+    "Peak Year": 2025
+  },
+  "GUY": {
+    "Country Name": "Guyana",
+    "Multiplied": 1.47,
+    "Peak Year": 2025
+  },
+  "HKG": {
+    "Country Name": "Hong Kong SAR, China",
+    "Multiplied": 2.42,
+    "Peak Year": 2023
+  },
+  "HND": {
+    "Country Name": "Honduras",
+    "Multiplied": 5.34,
+    "Peak Year": 2025
+  },
+  "HRV": {
+    "Country Name": "Croatia",
+    "Multiplied": 0.94,
+    "Peak Year": 1990
+  },
+  "HTI": {
+    "Country Name": "Haiti",
+    "Multiplied": 3.09,
+    "Peak Year": 2025
+  },
+  "HUN": {
+    "Country Name": "Hungary",
+    "Multiplied": 0.95,
+    "Peak Year": 1981
+  },
+  "IDN": {
+    "Country Name": "Indonesia",
+    "Multiplied": 3.24,
+    "Peak Year": 2025
+  },
+  "IMN": {
+    "Country Name": "Isle of Man",
+    "Multiplied": 1.72,
+    "Peak Year": 2011
+  },
+  "IND": {
+    "Country Name": "India",
+    "Multiplied": 3.36,
+    "Peak Year": 2025
+  },
+  "IRL": {
+    "Country Name": "Ireland",
+    "Multiplied": 1.94,
+    "Peak Year": 2025
+  },
+  "IRN": {
+    "Country Name": "Iran, Islamic Rep.",
+    "Multiplied": 4.3,
+    "Peak Year": 2025
+  },
+  "IRQ": {
+    "Country Name": "Iraq",
+    "Multiplied": 6.7,
+    "Peak Year": 2025
+  },
+  "ISL": {
+    "Country Name": "Iceland",
+    "Multiplied": 2.23,
+    "Peak Year": 2025
+  },
+  "ISR": {
+    "Country Name": "Israel",
+    "Multiplied": 4.79,
+    "Peak Year": 2025
+  },
+  "ITA": {
+    "Country Name": "Italy",
+    "Multiplied": 1.17,
+    "Peak Year": 2014
+  },
+  "JAM": {
+    "Country Name": "Jamaica",
+    "Multiplied": 1.72,
+    "Peak Year": 2023
+  },
+  "JOR": {
+    "Country Name": "Jordan",
+    "Multiplied": 13.5,
+    "Peak Year": 2024
+  },
+  "JPN": {
+    "Country Name": "Japan",
+    "Multiplied": 1.32,
+    "Peak Year": 2010
+  },
+  "KAZ": {
+    "Country Name": "Kazakhstan",
+    "Multiplied": 2.21,
+    "Peak Year": 2025
+  },
+  "KEN": {
+    "Country Name": "Kenya",
+    "Multiplied": 7.48,
+    "Peak Year": 2025
+  },
+  "KGZ": {
+    "Country Name": "Kyrgyz Republic",
+    "Multiplied": 3.38,
+    "Peak Year": 2025
+  },
+  "KHM": {
+    "Country Name": "Cambodia",
+    "Multiplied": 3.27,
+    "Peak Year": 2025
+  },
+  "KIR": {
+    "Country Name": "Kiribati",
+    "Multiplied": 2.89,
+    "Peak Year": 2025
+  },
+  "KNA": {
+    "Country Name": "St. Kitts and Nevis",
+    "Multiplied": 0.84,
+    "Peak Year": 1960
+  },
+  "KOR": {
+    "Country Name": "Korea, Rep.",
+    "Multiplied": 2.07,
+    "Peak Year": 2020
+  },
+  "KWT": {
+    "Country Name": "Kuwait",
+    "Multiplied": 15.64,
+    "Peak Year": 2024
+  },
+  "LAO": {
+    "Country Name": "Lao PDR",
+    "Multiplied": 3.71,
+    "Peak Year": 2025
+  },
+  "LBN": {
+    "Country Name": "Lebanon",
+    "Multiplied": 3.26,
+    "Peak Year": 2015
+  },
+  "LBR": {
+    "Country Name": "Liberia",
+    "Multiplied": 5.03,
+    "Peak Year": 2025
+  },
+  "LBY": {
+    "Country Name": "Libya",
+    "Multiplied": 5.0,
+    "Peak Year": 2025
+  },
+  "LCA": {
+    "Country Name": "St. Lucia",
+    "Multiplied": 1.95,
+    "Peak Year": 2025
+  },
+  "LIE": {
+    "Country Name": "Liechtenstein",
+    "Multiplied": 2.49,
+    "Peak Year": 2025
+  },
+  "LKA": {
+    "Country Name": "Sri Lanka",
+    "Multiplied": 2.25,
+    "Peak Year": 2022
+  },
+  "LSO": {
+    "Country Name": "Lesotho",
+    "Multiplied": 3.21,
+    "Peak Year": 2025
+  },
+  "LTU": {
+    "Country Name": "Lithuania",
+    "Multiplied": 1.04,
+    "Peak Year": 1991
+  },
+  "LUX": {
+    "Country Name": "Luxembourg",
+    "Multiplied": 2.19,
+    "Peak Year": 2025
+  },
+  "LVA": {
+    "Country Name": "Latvia",
+    "Multiplied": 0.87,
+    "Peak Year": 1989
+  },
+  "MAC": {
+    "Country Name": "Macao SAR, China",
+    "Multiplied": 3.96,
+    "Peak Year": 2024
+  },
+  "MAF": {
+    "Country Name": "St. Martin (French part)",
+    "Multiplied": 5.87,
+    "Peak Year": 2014
+  },
+  "MAR": {
+    "Country Name": "Morocco",
+    "Multiplied": 3.31,
+    "Peak Year": 2025
+  },
+  "MCO": {
+    "Country Name": "Monaco",
+    "Multiplied": 1.76,
+    "Peak Year": 2023
+  },
+  "MDA": {
+    "Country Name": "Moldova",
+    "Multiplied": 1.15,
+    "Peak Year": 1991
+  },
+  "MDG": {
+    "Country Name": "Madagascar",
+    "Multiplied": 6.41,
+    "Peak Year": 2025
+  },
+  "MDV": {
+    "Country Name": "Maldives",
+    "Multiplied": 5.81,
+    "Peak Year": 2025
+  },
+  "MEX": {
+    "Country Name": "Mexico",
+    "Multiplied": 3.59,
+    "Peak Year": 2025
+  },
+  "MHL": {
+    "Country Name": "Marshall Islands",
+    "Multiplied": 2.47,
+    "Peak Year": 2010
+  },
+  "MKD": {
+    "Country Name": "North Macedonia",
+    "Multiplied": 1.27,
+    "Peak Year": 1990
+  },
+  "MLI": {
+    "Country Name": "Mali",
+    "Multiplied": 4.66,
+    "Peak Year": 2025
+  },
+  "MLT": {
+    "Country Name": "Malta",
+    "Multiplied": 1.78,
+    "Peak Year": 2025
+  },
+  "MMR": {
+    "Country Name": "Myanmar",
+    "Multiplied": 2.52,
+    "Peak Year": 2025
+  },
+  "MNE": {
+    "Country Name": "Montenegro",
+    "Multiplied": 1.3,
+    "Peak Year": 2019
+  },
+  "MNG": {
+    "Country Name": "Mongolia",
+    "Multiplied": 3.65,
+    "Peak Year": 2025
+  },
+  "MNP": {
+    "Country Name": "Northern Mariana Islands",
+    "Multiplied": 4.98,
+    "Peak Year": 2000
+  },
+  "MOZ": {
+    "Country Name": "Mozambique",
+    "Multiplied": 5.31,
+    "Peak Year": 2025
+  },
+  "MRT": {
+    "Country Name": "Mauritania",
+    "Multiplied": 6.45,
+    "Peak Year": 2025
+  },
+  "MUS": {
+    "Country Name": "Mauritius",
+    "Multiplied": 1.83,
+    "Peak Year": 2021
+  },
+  "MWI": {
+    "Country Name": "Malawi",
+    "Multiplied": 6.12,
+    "Peak Year": 2025
+  },
+  "MYS": {
+    "Country Name": "Malaysia",
+    "Multiplied": 4.52,
+    "Peak Year": 2025
+  },
+  "NAM": {
+    "Country Name": "Namibia",
+    "Multiplied": 5.23,
+    "Peak Year": 2025
+  },
+  "NCL": {
+    "Country Name": "New Caledonia",
+    "Multiplied": 3.7,
+    "Peak Year": 2025
+  },
+  "NER": {
+    "Country Name": "Niger",
+    "Multiplied": 7.97,
+    "Peak Year": 2025
+  },
+  "NGA": {
+    "Country Name": "Nigeria",
+    "Multiplied": 5.27,
+    "Peak Year": 2025
+  },
+  "NIC": {
+    "Country Name": "Nicaragua",
+    "Multiplied": 3.93,
+    "Peak Year": 2025
+  },
+  "NLD": {
+    "Country Name": "Netherlands",
+    "Multiplied": 1.57,
+    "Peak Year": 2025
+  },
+  "NOR": {
+    "Country Name": "Norway",
+    "Multiplied": 1.57,
+    "Peak Year": 2025
+  },
+  "NPL": {
+    "Country Name": "Nepal",
+    "Multiplied": 2.93,
+    "Peak Year": 2022
+  },
+  "NRU": {
+    "Country Name": "Naoero",
+    "Multiplied": 2.61,
+    "Peak Year": 2025
+  },
+  "NZL": {
+    "Country Name": "New Zealand",
+    "Multiplied": 2.25,
+    "Peak Year": 2025
+  },
+  "OMN": {
+    "Country Name": "Oman",
+    "Multiplied": 10.36,
+    "Peak Year": 2025
+  },
+  "PAK": {
+    "Country Name": "Pakistan",
+    "Multiplied": 5.58,
+    "Peak Year": 2025
+  },
+  "PAN": {
+    "Country Name": "Panama",
+    "Multiplied": 4.06,
+    "Peak Year": 2025
+  },
+  "PER": {
+    "Country Name": "Peru",
+    "Multiplied": 3.4,
+    "Peak Year": 2025
+  },
+  "PHL": {
+    "Country Name": "Philippines",
+    "Multiplied": 4.19,
+    "Peak Year": 2025
+  },
+  "PLW": {
+    "Country Name": "Palau",
+    "Multiplied": 1.89,
+    "Peak Year": 2004
+  },
+  "PNG": {
+    "Country Name": "Papua New Guinea",
+    "Multiplied": 5.39,
+    "Peak Year": 2025
+  },
+  "POL": {
+    "Country Name": "Poland",
+    "Multiplied": 1.23,
+    "Peak Year": 1998
+  },
+  "PRI": {
+    "Country Name": "Puerto Rico (US)",
+    "Multiplied": 1.35,
+    "Peak Year": 2004
+  },
+  "PRK": {
+    "Country Name": "Korea, Dem. People's Rep.",
+    "Multiplied": 2.27,
+    "Peak Year": 2025
+  },
+  "PRT": {
+    "Country Name": "Portugal",
+    "Multiplied": 1.22,
+    "Peak Year": 2025
+  },
+  "PRY": {
+    "Country Name": "Paraguay",
+    "Multiplied": 3.72,
+    "Peak Year": 2025
+  },
+  "PSE": {
+    "Country Name": "West Bank and Gaza",
+    "Multiplied": null,
+    "Peak Year": 2025
+  },
+  "PYF": {
+    "Country Name": "French Polynesia",
+    "Multiplied": 3.38,
+    "Peak Year": 2025
+  },
+  "QAT": {
+    "Country Name": "Qatar",
+    "Multiplied": 82.54,
+    "Peak Year": 2025
+  },
+  "ROU": {
+    "Country Name": "Romania",
+    "Multiplied": 1.03,
+    "Peak Year": 1990
+  },
+  "RUS": {
+    "Country Name": "Russian Federation",
+    "Multiplied": 1.2,
+    "Peak Year": 1992
+  },
+  "RWA": {
+    "Country Name": "Rwanda",
+    "Multiplied": 4.82,
+    "Peak Year": 2025
+  },
+  "SAU": {
+    "Country Name": "Saudi Arabia",
+    "Multiplied": 15.18,
+    "Peak Year": 2025
+  },
+  "SDN": {
+    "Country Name": "Sudan",
+    "Multiplied": 6.18,
+    "Peak Year": 2025
+  },
+  "SEN": {
+    "Country Name": "Senegal",
+    "Multiplied": 5.67,
+    "Peak Year": 2025
+  },
+  "SGP": {
+    "Country Name": "Singapore",
+    "Multiplied": 3.71,
+    "Peak Year": 2025
+  },
+  "SLB": {
+    "Country Name": "Solomon Islands",
+    "Multiplied": 6.0,
+    "Peak Year": 2025
+  },
+  "SLE": {
+    "Country Name": "Sierra Leone",
+    "Multiplied": 3.89,
+    "Peak Year": 2025
+  },
+  "SLV": {
+    "Country Name": "El Salvador",
+    "Multiplied": 2.28,
+    "Peak Year": 2025
+  },
+  "SMR": {
+    "Country Name": "San Marino",
+    "Multiplied": 2.21,
+    "Peak Year": 2020
+  },
+  "SOM": {
+    "Country Name": "Somalia, Fed. Rep.",
+    "Multiplied": 6.83,
+    "Peak Year": 2025
+  },
+  "SRB": {
+    "Country Name": "Serbia",
+    "Multiplied": 0.99,
+    "Peak Year": 1990
+  },
+  "SSD": {
+    "Country Name": "South Sudan",
+    "Multiplied": 4.16,
+    "Peak Year": 2025
+  },
+  "STP": {
+    "Country Name": "Sao Tome and Principe",
+    "Multiplied": 3.53,
+    "Peak Year": 2025
+  },
+  "SUR": {
+    "Country Name": "Suriname",
+    "Multiplied": 2.42,
+    "Peak Year": 2025
+  },
+  "SVK": {
+    "Country Name": "Slovak Republic",
+    "Multiplied": 1.33,
+    "Peak Year": 2020
+  },
+  "SVN": {
+    "Country Name": "Slovenia",
+    "Multiplied": 1.34,
+    "Peak Year": 2025
+  },
+  "SWE": {
+    "Country Name": "Sweden",
+    "Multiplied": 1.42,
+    "Peak Year": 2025
+  },
+  "SWZ": {
+    "Country Name": "Eswatini",
+    "Multiplied": 3.64,
+    "Peak Year": 2025
+  },
+  "SXM": {
+    "Country Name": "Sint Maarten (Dutch part)",
+    "Multiplied": 16.18,
+    "Peak Year": 2025
+  },
+  "SYC": {
+    "Country Name": "Seychelles",
+    "Multiplied": 2.94,
+    "Peak Year": 2025
+  },
+  "SYR": {
+    "Country Name": "Syrian Arab Republic",
+    "Multiplied": 5.48,
+    "Peak Year": 2025
+  },
+  "TCA": {
+    "Country Name": "Turks and Caicos Islands",
+    "Multiplied": 8.37,
+    "Peak Year": 2025
+  },
+  "TCD": {
+    "Country Name": "Chad",
+    "Multiplied": 6.89,
+    "Peak Year": 2025
+  },
+  "TGO": {
+    "Country Name": "Togo",
+    "Multiplied": 5.14,
+    "Peak Year": 2025
+  },
+  "THA": {
+    "Country Name": "Thailand",
+    "Multiplied": 2.67,
+    "Peak Year": 2022
+  },
+  "TJK": {
+    "Country Name": "Tajikistan",
+    "Multiplied": 5.11,
+    "Peak Year": 2025
+  },
+  "TKM": {
+    "Country Name": "Turkmenistan",
+    "Multiplied": 4.64,
+    "Peak Year": 2025
+  },
+  "TLS": {
+    "Country Name": "Timor-Leste",
+    "Multiplied": 3.03,
+    "Peak Year": 2025
+  },
+  "TON": {
+    "Country Name": "Tonga",
+    "Multiplied": 1.57,
+    "Peak Year": 2011
+  },
+  "TTO": {
+    "Country Name": "Trinidad and Tobago",
+    "Multiplied": 1.62,
+    "Peak Year": 2024
+  },
+  "TUN": {
+    "Country Name": "Tunisia",
+    "Multiplied": 2.89,
+    "Peak Year": 2025
+  },
+  "TUR": {
+    "Country Name": "Turkiye",
+    "Multiplied": 3.03,
+    "Peak Year": 2025
+  },
+  "TUV": {
+    "Country Name": "Tuvalu",
+    "Multiplied": 1.7,
+    "Peak Year": 2013
+  },
+  "TZA": {
+    "Country Name": "Tanzania",
+    "Multiplied": 7.12,
+    "Peak Year": 2025
+  },
+  "UGA": {
+    "Country Name": "Uganda",
+    "Multiplied": 6.72,
+    "Peak Year": 2025
+  },
+  "UKR": {
+    "Country Name": "Ukraine",
+    "Multiplied": 0.91,
+    "Peak Year": 1993
+  },
+  "URY": {
+    "Country Name": "Uruguay",
+    "Multiplied": 1.34,
+    "Peak Year": 2020
+  },
+  "USA": {
+    "Country Name": "United States",
+    "Multiplied": 1.89,
+    "Peak Year": 2025
+  },
+  "UZB": {
+    "Country Name": "Uzbekistan",
+    "Multiplied": 4.51,
+    "Peak Year": 2025
+  },
+  "VCT": {
+    "Country Name": "St. Vincent and the Grenadines",
+    "Multiplied": 1.18,
+    "Peak Year": 2000
+  },
+  "VEN": {
+    "Country Name": "Venezuela, RB",
+    "Multiplied": 3.49,
+    "Peak Year": 2016
+  },
+  "VGB": {
+    "Country Name": "British Virgin Islands",
+    "Multiplied": 5.0,
+    "Peak Year": 2025
+  },
+  "VIR": {
+    "Country Name": "Virgin Islands (U.S.)",
+    "Multiplied": 3.19,
+    "Peak Year": 2000
+  },
+  "VNM": {
+    "Country Name": "Viet Nam",
+    "Multiplied": 3.12,
+    "Peak Year": 2025
+  },
+  "VUT": {
+    "Country Name": "Vanuatu",
+    "Multiplied": 5.2,
+    "Peak Year": 2025
+  },
+  "WSM": {
+    "Country Name": "Samoa",
+    "Multiplied": 1.95,
+    "Peak Year": 2025
+  },
+  "XKX": {
+    "Country Name": "Kosovo",
+    "Multiplied": 1.6,
+    "Peak Year": 1997
+  },
+  "YEM": {
+    "Country Name": "Yemen, Rep.",
+    "Multiplied": 7.55,
+    "Peak Year": 2025
+  },
+  "ZAF": {
+    "Country Name": "South Africa",
+    "Multiplied": 3.94,
+    "Peak Year": 2025
+  },
+  "ZMB": {
+    "Country Name": "Zambia",
+    "Multiplied": 6.95,
+    "Peak Year": 2025
+  },
+  "ZWE": {
+    "Country Name": "Zimbabwe",
+    "Multiplied": 4.45,
+    "Peak Year": 2025
+  }
+}
